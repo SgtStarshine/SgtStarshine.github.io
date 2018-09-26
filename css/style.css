@@ -1,11 +1,18 @@
+body {
+    background-image: url("images/77f.jpg");
+}
+
+
 h1 {
+    color: white;
     text-align: center;
-    background-color: grey;
+    background-color: darkgrey;
     width: 100%;
     padding: 20px;
 }
 
 .container {
+    color: white;
     text-align: left;
     width: 720px;
     margin: 0 auto;
